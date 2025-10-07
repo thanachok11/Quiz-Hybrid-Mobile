@@ -78,14 +78,6 @@ npx expo start
 - 🤖 กด `a` เพื่อรันบน Android Emulator
 - 📱 หรือสแกน QR Code ด้วย Expo Go App
 
-### 🔑 Environment Variables
-สร้างไฟล์ `.env` ที่ root:
-```
-API_BASE_URL=https://cis.kku.ac.th/api
-API_KEY=03e8b6f26b0b058c16e48359cb05028434639ddcaaf2d7a93b425fef24f547df
-```
-⚠️ ควรเก็บ API key ไว้ใน `.env` และอย่า commit ลง GitHub
-
 ### 🧭 โครงสร้างไฟล์
 ```
 src/
