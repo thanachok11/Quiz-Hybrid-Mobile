@@ -5,27 +5,24 @@
 เชื่อมต่อกับ API ของระบบ **CIS KKU Classroom**
 
 ---
-
-## Screenshots
-
+## 📸 Screenshots
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |--------------|--------------|--------------|
-| (./assets/screenshot/IMG_5119.PNG) | (./assets/screenshot/IMG_5120.PNG) | (./assets/screenshot/IMG_5121.PNG) |
+| ![](./assets/screenshot/IMG_5119.PNG) | ![](./assets/screenshot/IMG_5120.PNG) | ![](./assets/screenshot/IMG_5121.PNG) |
 
 | Screenshot 4 | Screenshot 5 | Screenshot 6 |
 |--------------|--------------|--------------|
-| (./assets/screenshot/IMG_5122.PNG) | (./assets/screenshot/IMG_5123.PNG) | (./assets/screenshot/IMG_5124.PNG) |
+| ![](./assets/screenshot/IMG_5122.PNG) | ![](./assets/screenshot/IMG_5123.PNG) | ![](./assets/screenshot/IMG_5124.PNG) |
 
 | Screenshot 7 | Screenshot 8 | Screenshot 9 |
 |--------------|--------------|--------------|
-| (./assets/screenshot/IMG_5125.PNG) | (./assets/screenshot/IMG_5126.PNG) | (./assets/screenshot/IMG_5127.PNG) |
+| ![](./assets/screenshot/IMG_5125.PNG) | ![](./assets/screenshot/IMG_5126.PNG) | ![](./assets/screenshot/IMG_5127.PNG) |
 
 | Screenshot 10 | Screenshot 11 |
 |--------------|--------------|
-| (./assets/screenshot/IMG_5128.PNG) | (./assets/screenshot/IMG_5129.PNG) 
+| ![](./assets/screenshot/IMG_5128.PNG) | ![](./assets/screenshot/IMG_5129.PNG) |
 
----
 ## ✨ คุณสมบัติ (Features)
 
 - 🔐 ระบบล็อกอินด้วย Token (JWT)
