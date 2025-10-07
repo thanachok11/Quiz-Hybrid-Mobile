@@ -21,8 +21,8 @@
 |--------------|--------------|--------------|
 | (./assets/screenshot/IMG_5125.PNG) | (./assets/screenshot/IMG_5126.PNG) | (./assets/screenshot/IMG_5127.PNG) |
 
-| Screenshot 10 | Screenshot 11 
-|--------------|--------------|--------------|
+| Screenshot 10 | Screenshot 11 |
+|--------------|--------------|
 | (./assets/screenshot/IMG_5128.PNG) | (./assets/screenshot/IMG_5129.PNG) 
 
 ---
