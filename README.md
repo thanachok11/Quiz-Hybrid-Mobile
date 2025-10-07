@@ -57,8 +57,8 @@
 
 ### 1️⃣ Clone โปรเจกต์
 ```bash
-git clone https://github.com/YOUR_USERNAME/kku-classroom-feed.git
-cd kku-classroom-feed
+git clone (https://github.com/thanachok11/Quiz-Hybrid-Mobile.git)
+cd Quiz-Hybrid-Mobile
 ```
 
 ### 2️⃣ ติดตั้ง Dependencies
